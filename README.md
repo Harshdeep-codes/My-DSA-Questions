@@ -1,10 +1,10 @@
 # My-DSA-Questions
 ## Arrays
 
-1. [Linear Search in an array](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1) - [<ins> Solution Link</ins>]([https://github.com/Harshdeep-codes/Leetcode-Questions/blob/main/Array%20Codes/1.cpp](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/1.cpp))
-2. [Reverse an Array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0) - [<ins> Solution Link</ins>]([https://github.com/Harshdeep-codes/Leetcode-Questions/blob/main/Array%20Codes/2.cpp](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/2.cpp))
-3. [Find Max & Min Element in an Array]([https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/3.cpp)) - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/Leetcode-Questions/blob/main/Array%20Codes/3.cpp)
-4. [Swap Alternates in an Array](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/Leetcode-Questions/blob/main/Array%20Codes/4.cpp)
+1. [Linear Search in an array](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1) - [<ins> Solution Link </ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/1.cpp)
+2. [Reverse an Array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0) - [<ins> Solution Link</ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/2.cpp)
+3. [Find Max & Min Element in an Array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/3.cpp)
+4. [Swap Alternates in an Array](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/4.cpp)
 5. [Sort 012 in an array]() - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/5.cpp)
 6. [Move all negatives number to one side of array](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/6.cpp)
 7. [Find Union & Intersection](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/0/) - [<ins>Solution Link</ins>](https://github.com/Harshdeep-codes/My-DSA-Questions/blob/main/Arrays/7.cpp)
